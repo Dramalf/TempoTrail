@@ -1,5 +1,5 @@
 ## TempoTrail
-
+Dynamically matches loop music to your running pace, heart rate, and cadence for an immersive workout experience.
 
 <img width="754" alt="image" src="https://github.com/user-attachments/assets/577742eb-57a2-47d3-9aef-34e26cc7b491" />
 
