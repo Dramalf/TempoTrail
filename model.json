@@ -1,0 +1,33 @@
+{
+    "model_type": "FitRecSpeedPredictor",
+    "window_duration": 6,
+    "prediction_duration": 6,
+    "sampling_rate": 1,
+    "model_weights_path": "model_weights.weights.h5",
+    "scalers": {
+        "speed_scaler": {
+            "min_": [
+                -0.1703232028535296
+            ],
+            "scale_": [
+                0.08094990849620246
+            ]
+        },
+        "hr_scaler": {
+            "min_": [
+                -1.3559735855896786
+            ],
+            "scale_": [
+                0.01325518809692108
+            ]
+        },
+        "target_scaler": {
+            "min_": [
+                -0.5165412440206145
+            ],
+            "scale_": [
+                0.127937208034699
+            ]
+        }
+    }
+}
