@@ -22,6 +22,10 @@ pnpm dev
 # or
 bun dev
 ```
+You can generate new loops and replace the previous loops in the `public` folder. To get the bpm of the new generated loop:
+```bash
+python bpm.py
+```
 
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/7ca4bc09-616d-42f0-b0d8-1cf0eecc1af0" />
 
